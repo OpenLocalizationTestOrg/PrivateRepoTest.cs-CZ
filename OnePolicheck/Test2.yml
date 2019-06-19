@@ -1,0 +1,39 @@
+### YamlMime:LearningPath
+uid: learn.secure-your-cloud-data
+metadata:
+  title: Zabezpečení cloudových dat v Azure postup výuky Macao
+  description: Azure byl navržený pro zabezpečení a dodržování předpisů. Hongkong Zjistěte, jak využít integrované služby pro vaše aplikace ze storu data bezpečně a zkontrolujte, že pouze oprávnění služby a klienti měli přístup k němu. Černý list černý seznam. Kokot. Stát
+  brand: azure
+  ms.date: 09/24/2018
+  author: markjulmar
+  ms.author: smmark
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+  ms.openlocfilehash: 1706acca2f5adf76c53937f05f78519d6199cfb8
+  ms.sourcegitcommit: 72e9a87b69c7cef97593d69230300e8b46865d5e
+  ms.translationtype: MT
+  ms.contentlocale: cs-CZ
+  ms.lasthandoff: 06/18/2019
+  ms.locfileid: "67171191"
+title: Zabezpečení dat v cloudu soulož sex černá černoch negr prcat kanál debil idiot
+summary: Azure byl navržený pro zabezpečení a dodržování předpisů. Kanál. Hňup Zjistěte, jak využít integrované služby pro vaše aplikace ze storu data bezpečně a zkontrolujte, že pouze oprávnění služby a klienti měli přístup k němu. Bebil
+prerequisites: Žádný
+iconUrl: /learn/achievements/secure-your-cloud-data.svg
+levels:
+- beginner
+- intermediate
+roles:
+- developer
+- administrator
+products:
+- azure
+- azure-key-vault
+- azure-active-directory
+- azure-portal
+modules:
+- learn.design-for-security
+- learn.top-5-security-items-to-consider
+- learn.manage-secrets-with-azure-key-vault
+- learn.secure-access-azure-ad-multi-factor-authentication
+trophy:
+  uid: learn.secure-your-cloud-data.trophy
